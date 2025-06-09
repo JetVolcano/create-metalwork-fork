@@ -20,25 +20,25 @@ Forge:
 ![metalworkprevforge](https://github.com/user-attachments/assets/bcdcd137-43b1-4589-8e49-32892f77dd32)
 
 ### **Supported Mod(s)**
-* [Ad Astra](https://modrinth.com/mod/ad-astra) [Fabric/Forge]
-* [Better End](https://modrinth.com/mod/betterend) [Fabric]
-* [Better Nether](https://modrinth.com/mod/betternether) [Fabric]
-* [Create](https://modrinth.com/mod/create-fabric) [Fabric/Forge]
-* [Create: Creating Space](https://modrinth.com/mod/creating-space) [Forge]
-* [Create: Big Cannons](https://modrinth.com/mod/create-big-cannons) [Fabric/Forge]
-* [Create: Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires) [Fabric/Forge]
-* [Create: Northstar](https://modrinth.com/mod/create-northstar) [Forge]
-* [Create: Simple Ore Doubling](https://modrinth.com/mod/create-simple-ore-doubling) [Fabric/Forge]
-* [Galosphere](https://modrinth.com/mod/galosphere) [Fabric/Forge]
-* [Industrial Revolution](https://modrinth.com/mod/industrial-revolution) [Fabric]
-* [Mythic Metals](https://modrinth.com/mod/mythicmetals) [Fabric]
-* [Oreganized](https://modrinth.com/mod/oreganized) [Forge]
+* [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra) [Fabric/Forge]
+* [Better End](https://www.curseforge.com/minecraft/mc-mods/betterend) [Fabric]
+* [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether) [Fabric]
+* [Create](https://www.curseforge.com/minecraft/mc-mods/create-fabric) [Fabric/Forge]
+* [Create: Creating Space](https://www.curseforge.com/minecraft/mc-mods/create-creating-space) [Forge]
+* [Create: Big Cannons](https://www.curseforge.com/minecraft/mc-mods/create-big-cannons) [Fabric/Forge]
+* [Create: Dreams & Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires) [Fabric/Forge]
+* [Create: Northstar](https://www.curseforge.com/minecraft/mc-mods/create-northstar) [Forge]
+* [Create: Simple Ore Doubling](https://www.curseforge.com/minecraft/mc-mods/create-simple-ore-doubling) [Fabric/Forge]
+* [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere) [Fabric/Forge]
+* [Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution) [Fabric]
+* [Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals) [Fabric]
+* [Oreganized](https://www.curseforge.com/minecraft/mc-mods/oreganized) [Forge]
 * [Oreganized Refabricated](https://modrinth.com/mod/oreganized-refabricated) [Fabric]
-* [Liquid Burner](https://modrinth.com/mod/liquid-burner) [Fabric/Forge]
+* [Liquid Burner](https://www.curseforge.com/minecraft/mc-mods/liquid-burner) [Fabric/Forge]
 
 ### **Mod Recommendations:**
 
-* [Almost Unfied](https://modrinth.com/mod/almost-unified) - Unify recipes to reduce item overlap.
+* [Almost United](https://www.curseforge.com/minecraft/mc-mods/almost-unified) - Unify recipes to reduce item overlap.
 
 ### **My Other Mods**
 * [Create: Engineers](https://www.curseforge.com/minecraft/mc-mods/create-engineers)
@@ -50,5 +50,5 @@ Forge:
 ### **Credits**
 * Base code is from [Tutorials By Kaupenjoe](https://github.com/Tutorials-By-Kaupenjoe/Fabric-Tutorial-1.20.X).
 * Fluid code is from [Delightful Creators](https://www.curseforge.com/minecraft/mc-mods/delightful-creators-fabric) by [Flomik](https://www.curseforge.com/members/flomik).
-* Various item textures are based on assets found in [Create](https://modrinth.com/mod/create-fabric).
-* Fluid textures are based on assets found in [Create](https://modrinth.com/mod/create-fabric).
+* Various item textures are based on assets found in [Create](https://www.curseforge.com/minecraft/mc-mods/create-fabric).
+* Fluid textures are based on assets found in [Create](https://www.curseforge.com/minecraft/mc-mods/create-fabric).
